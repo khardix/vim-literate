@@ -64,6 +64,13 @@ highlighting definition, the literate Coffeescript won't work either.
 Use your favourite vim plugin manager, such as [Vundle][vundle] or
 [Pathogen][pathogen].
 
+# Credits
+
+Thanks to [Maxy-B](https://stackoverflow.com/users/642337/maxy-b) on SO, for
+asking and then answering the question on how to combine multiple syntax
+highlighting specifications:
+https://stackoverflow.com/questions/5176972/trouble-using-vims-syn-include-and-syn-region-to-embed-syntax-highlighting
+
 # License
 
 MIT. For details, see LICENSE file.
